@@ -92,6 +92,43 @@ height: auto;
     height: 210px;
     border-radius: 18px;
 }
+#text1{
+  padding-bottom: 20px;
+}
+.trip1{
+    display:flex;
+    padding-top: 40px;
+    margin-left: 50px;
+    gap: 20px;
+    padding-bottom: 10px;
+}
+.gallery{
+    width: 565px;
+    height: 400px;
+    border-radius: 18px;
+    padding-top: 5px;
+}
+#title3{
+    padding-bottom: 8px;
+}
+.text4{
+    width: 250px;
+    height: 200px;
+}
+.galler2{
+padding-left: 50px;
+display: flex;
+gap: 20px;
+}
+.galler3{
+padding-left: 50px;
+display: flex;
+gap: 20px;
+}
+.picture{
+    width: 200px;
+    height: 200px;
+}
 
 /* footer section */
 .footer-section{
